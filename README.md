@@ -16,3 +16,6 @@ ESP32 adalah nama dari mikrokontroler yang dirancang oleh perusahaan yang berbas
 **1) ESP32 Capacitive Touch Sensor**
 
 **Contoh**
+https://user-images.githubusercontent.com/41616849/209110281-f6921e44-5aa6-4ab2-9dd9-39307d822c25.mp4
+
+
