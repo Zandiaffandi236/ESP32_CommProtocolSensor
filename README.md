@@ -53,6 +53,7 @@ Percobaan kali ini menghasilkan data ketika sensor disentuh maka akan mengirimka
 d) Lampu LED akan menyala Running saat sensor disentuh <br />
 
 https://user-images.githubusercontent.com/41616849/209119462-2cac19fa-6147-4143-8977-80bca4ee5a50.mp4
+
 Analisa : <br />
 Pada percobaan ini program diubah sehingga ketika sensor disentuh maka LED akan menyala running dari kiri ke kanan, kemudian kanan ke kiri secara kontinyue <br />
 
