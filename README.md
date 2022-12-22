@@ -65,8 +65,23 @@ rangkaian diatas kemudian ditambah buzzer yang akan menyala saat sensor membaca 
 https://user-images.githubusercontent.com/41616849/209121035-1647dcfe-ee5e-407e-94fe-a8e10e025bea.mp4
 
 Analisa : <br />
-Dengan data yang didapat sensor DHT 11 kita dapat membuat program dengan untuk memberikan sebuah state pada keadaan tertentu.
+Dengan data yang didapat sensor DHT 11 kita dapat membuat program dengan untuk memberikan sebuah state pada keadaan tertentu. <br />
 
+**3) Sensor RFID**
+
+**Buatlah rangkaian seperti berikut**
+
+![image](https://user-images.githubusercontent.com/41616849/209123901-b261bf28-8be5-443a-aadf-cb393fa20e94.png)
+
+
+Keluaran 
+
+![image](https://user-images.githubusercontent.com/41616849/209123721-e27870b9-23ab-4e33-afd5-f146bd19903d.png)
+
+
+**Kondisi apabila Tag RFID didekatkan pada Reader, maka LED Hijau akan menyala, servo akan bergerak ke kanan (lalu kembali ke posisi semula setelah 3 detik) dan di Serial Monitor akan tertampil pesan “Akses Diterima, Silahkan Masuk”. Apabila Tag RFID tidak dikenali, maka LED Merah akan menyala, servo tidak bergerak dan di Serial Monitor akan tertampil pesan “Akses Ditolak”**
+
+Keluaran 
 
 
 
