@@ -85,6 +85,8 @@ Keluaran
 
 https://user-images.githubusercontent.com/41616849/209267160-384c77bf-cb98-4829-82b5-d5c539dcbece.mp4
 
+Analisa : <br />
+Setelah mengetahui tentang cara kerja RFID kita bisa tambahkan motor servo seperti percobaan diatas, ketika kartu akses diterima maka ESP32 akan mengirim data pada motor servo untuk berputar 180 derajat selama 3 detik lalu kembali ke posisi awal dan menyalakan LED hijau, sedangkan ketika kartu akses ditolak maka lampu LED merah yang akan menyala
 
 
 
